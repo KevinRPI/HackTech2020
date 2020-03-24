@@ -3,5 +3,4 @@ These are some of the prototype HTML/CSS things I did during HackTech2020. In ou
 
 
 Link to our final product! (With HTML, CSS, JS, Firebase, etc.)
-
 https://devpost.com/software/nocoronadiscrimination
